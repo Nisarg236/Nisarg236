@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in developing robots and whatever goes around that!!
-- 🌱 I’m currently learning localization and autonomous navigation for ground and aerial bots.
+- 🌱 I’m currently learning localization, mapping and autonomous navigation for ground and aerial bots.
 - 💞️ I’m looking to collaborate on some good computer vision, control, and/or manipulator projects. Connect if possible!!
 - 📫 How to reach me:<be>
   <a target="_blank" href="mailto:nisargnileshpanchal@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panchalnisarg/)<br>

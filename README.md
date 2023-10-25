@@ -10,4 +10,4 @@
 
 [![Nisarg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nisarg236&hide=contribs,prs)](https://github.com/Nisarg236/readme-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarg236&layout=compact)](https://github.com/Nisarg236) <br>
-![](https://komarev.com/ghpvc/?username=Nisarg236&style=plastic&label=Visitors)
+![](https://komarev.com/ghpvc/?username=Nisarg236&style=metal&label=Visitors)

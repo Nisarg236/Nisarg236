@@ -1,6 +1,5 @@
 ### Well met! 👋
 
-
 - 👀 I’m interested in developing robots and whatever goes around that!!
 - 🌱 I’m currently learning localization, mapping and autonomous navigation for ground and aerial bots.
 - 💞️ I’m looking to collaborate on some good projects related to mobile robots. Connect if possible!!
@@ -12,4 +11,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarg236&layout=compact)](https://github.com/Nisarg236) <br>
 ![](https://komarev.com/ghpvc/?username=Nisarg236&style=plastic&label=Visitors)
 
-![](https://github.com/Nisarg236/pikachu-running.gif)

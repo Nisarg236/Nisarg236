@@ -1,6 +1,6 @@
 ### Well met! 👋
 
-- 👀 I’m interested in developing robots and whatever goes around that!!
+- 👀 I’m interested in developing robots!!
 - 🌱 I’m currently learning localization, mapping and autonomous navigation for ground and aerial bots.
 - 💞️ I’m looking to collaborate on some good projects related to mobile robots. Connect if possible!!
 - 📫 How to reach me:<be>

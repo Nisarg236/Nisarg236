@@ -1,7 +1,7 @@
 ### Well met! 👋
 
 - 👀 I’m interested in developing robots!!
-- 🌱 I’m currently learning localization, mapping and autonomous navigation for ground and aerial bots.
+- 🌱 I’m currently working on autonomous navigation for ground robots.
 - 💞️ I’m looking to collaborate on some good projects related to mobile robots. Connect if possible!!
 - 📫 How to reach me:<be>
   <a target="_blank" href="mailto:nisargnileshpanchal@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panchalnisarg/)<br>
